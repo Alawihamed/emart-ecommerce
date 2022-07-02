@@ -5,6 +5,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { ImBin, ImPlus, ImMinus } from "react-icons/im";
 import EmptyCart from "../../assets/empty-cart.png";
 import { Link } from "react-router-dom";
+// Continue Button
 import {
   removeFromCart,
   incrementQuntity,
